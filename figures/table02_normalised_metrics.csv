@@ -1,0 +1,5 @@
+Target,nMAE_mean-load (%),cNMAE_wind (%),cNMAE_solar (%),pMAE_peak-demand (%),pMAE_net-load_peak (%)
+Wind Generation,,2.412,,,
+Solar Generation,,,1.382,,
+Load,2.577,,,1.851,
+Net Load,,,,,3.512

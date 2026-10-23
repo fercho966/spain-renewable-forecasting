@@ -1,0 +1,16 @@
+numpy
+pandas
+pyarrow
+scipy
+scikit-learn
+xgboost
+matplotlib
+seaborn
+requests
+requests-cache
+retry-requests
+openmeteo-requests
+tqdm
+holidays
+openpyxl
+joblib

@@ -1,0 +1,5 @@
+Target,MAE (MW),RMSE (MW),MAPE (%),nMAE (%),R²
+Wind Generation,772.72,1052.41,13.32,10.557,0.93865
+Solar Generation,639.7,1299.05,84.986,14.687,0.95726
+Load Demand,708.23,1129.3,2.538,2.591,0.94166
+Net Load (derived),1309.61,1809.15,12.902,8.364,0.93772
